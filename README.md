@@ -19,10 +19,10 @@ https://bitbucket.org/valeronm/amazfitbiptools/downloads/  (plugs into the watch
 Customise it and rebuild it.  Then use AmazTools to load the bin file onto the watch from the iPhone…
 https://apps.apple.com/us/app/amaztools/id1386033880
 
-176x176 pixels with an 8-colour palette. The decompiler seems to do the dithering on images if you aren’t using one of the 8 colours. ![Colour pallete](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Resources/AmazfitBIPColourPallette.jpg )
+176x176 pixels with an 8-colour palette. The decompiler seems to do the dithering on images if you aren’t using one of the 8 colours. ![Colour pallete](https://github.com/threadz/WatchFace-BIP-CummingsDigital/blob/master/Resources/AmazfitBIPColourPallette.jpg )
 
 ## Releases
 
 |                                                                             Face                                                                            | Version | Description                                                                                                                                                                  |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Watchface ](https://github.com/threadz/WatchFace-BIP-SimpleWhiteDigital/blob/master/Releases/CummingsDigital_24h_packed_animated_V1.0.gif ) |   [1.0](https://github.com/threadz/WatchFace-BIP-RoundDial/blob/master/Releases/CummingsDigital_24h_packed_V1.0.bin)   | Basic digital with red minutes, current steps and HR                                                                                             |
+| ![Watchface ](https://github.com/threadz/WatchFace-BIP-CummingsDigital/blob/master/Releases/CummingsDigital_24h_packed_animated_V1.0.gif ) |   [1.0](https://github.com/threadz/WatchFace-BIP-CummingsDigital/blob/master/Releases/CummingsDigital_24h_packed_V1.0.bin)   | Basic digital with red minutes, current steps and HR                                                                                             |
